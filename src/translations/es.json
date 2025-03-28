@@ -1,0 +1,208 @@
+{
+  "hero": {
+    "title": "Obtén tu Préstamo Soñado con las",
+    "highlight": "Tasas Más Bajas",
+    "subtitle": "Aprobaciones rápidas, tasas de interés competitivas y términos de pago flexibles adaptados a tus necesidades.",
+    "applyButton": "Solicitar Ahora",
+    "calculateButton": "Calcular Tasa"
+  },
+  "features": {
+    "title": "¿Por Qué Elegir SmartLoan?",
+    "lowRates": {
+      "title": "Tasas de Interés Bajas",
+      "description": "Desde 3.5% TAE con términos flexibles y tarifas transparentes."
+    },
+    "fastApproval": {
+      "title": "Aprobación Rápida",
+      "description": "Obtén la aprobación en 24 horas con nuestro proceso simplificado."
+    },
+    "secure": {
+      "title": "Proceso Seguro",
+      "description": "Tus datos están protegidos con seguridad y encriptación de nivel bancario."
+    }
+  },
+  "nav": {
+    "services": "Servicios",
+    "dashboard": "Panel de Control",
+    "loanCalculator": "Calculadora de Préstamos",
+    "contact": "Contacto"
+  },
+  "dashboard": {
+    "title": "Panel de Clientes",
+    "stats": {
+      "title": "Resumen del Panel",
+      "overview": "General",
+      "monthly": "Mensual",
+      "totalLoans": "Préstamos Totales",
+      "totalAmount": "Monto Total",
+      "avgCreditScore": "Puntaje Crediticio Promedio",
+      "pendingApplications": "Solicitudes Pendientes",
+      "monthlyStats": {
+        "title": "Estadísticas Mensuales",
+        "newLoans": "Nuevos Préstamos",
+        "totalRepaid": "Total Reembolsado",
+        "defaultRate": "Tasa de Incumplimiento",
+        "avgLoanSize": "Tamaño Promedio de Préstamo"
+      }
+    },
+    "table": {
+      "title": "Lista de Clientes",
+      "client": "Nombre del Cliente",
+      "loanType": "Tipo de Préstamo",
+      "amount": "Cantidad",
+      "period": "Período",
+      "payback": "Devolución",
+      "creditScore": "Puntaje Crediticio",
+      "status": "Estado"
+    },
+    "errors": {
+      "loadingClients": "Error al cargar los datos de los clientes"
+    }
+  },
+  "loanTypes": {
+    "title": "Tipos de Préstamos Disponibles",
+    "personal": {
+      "title": "Préstamos Personales",
+      "rate": "5.99%",
+      "term": "1-7 años"
+    },
+    "home": {
+      "title": "Préstamos Hipotecarios",
+      "rate": "3.5%",
+      "term": "15-30 años"
+    },
+    "business": {
+      "title": "Préstamos Empresariales",
+      "rate": "4.99%",
+      "term": "1-10 años"
+    },
+    "auto": {
+      "title": "Préstamos para Autos",
+      "rate": "4.5%",
+      "term": "2-7 años"
+    },
+    "interestRate": "Tasa de interés desde",
+    "termLength": "Plazo del Préstamo",
+    "learnMore": "Más Información"
+  },
+  "footer": {
+    "description": "Haciendo posibles tus sueños financieros con tasas competitivas y términos transparentes.",
+    "quickLinks": "Enlaces Rápidos",
+    "about": "Sobre Nosotros",
+    "services": "Nuestros Servicios",
+    "calculator": "Calculadora de Préstamos",
+    "faq": "Preguntas Frecuentes",
+    "contact": {
+      "title": "Contacto",
+      "email": "Email: contacto@smartloan.com",
+      "phone": "Teléfono: (555) 123-4567",
+      "address": "Dirección: Calle Finanzas 123",
+      "hours": "Horario: 9 AM - 5 PM"
+    },
+    "newsletter": {
+      "title": "Boletín Informativo",
+      "description": "Suscríbete para recibir las últimas actualizaciones y ofertas",
+      "placeholder": "Tu correo electrónico",
+      "button": "Suscribirse"
+    },
+    "copyright": "© 2024 SmartLoan. Todos los derechos reservados."
+  },
+  "services": {
+    "title": "Nuestros Servicios de Préstamos",
+    "subtitle": "Soluciones Financieras Integrales para Cada Necesidad",
+    "description": "Explora nuestra gama de servicios de préstamos diseñados para ayudarte a alcanzar tus metas financieras. Ya sea que busques comprar una casa, iniciar un negocio o necesites financiamiento personal, tenemos la solución adecuada para ti.",
+    "categories": {
+      "personal": {
+        "title": "Préstamos Personales",
+        "description": "Préstamos personales flexibles con tasas competitivas para cualquier propósito, desde consolidación de deudas hasta mejoras del hogar.",
+        "features": [
+          "Proceso de aprobación rápido",
+          "Tasas desde 5.99% TAE",
+          "Montos hasta $50,000",
+          "Términos de pago flexibles"
+        ]
+      },
+      "home": {
+        "title": "Préstamos Hipotecarios",
+        "description": "Haz realidad tu casa soñada con nuestras opciones hipotecarias competitivas y orientación experta.",
+        "features": [
+          "Opciones de pago inicial bajo",
+          "Tasas de interés competitivas desde 3.5%",
+          "Tasas fijas y ajustables",
+          "Programas para compradores primerizos"
+        ]
+      },
+      "business": {
+        "title": "Préstamos Empresariales",
+        "description": "Impulsa el crecimiento de tu negocio con nuestra gama de soluciones de financiamiento comercial.",
+        "features": [
+          "Préstamos de capital de trabajo",
+          "Financiamiento de equipos",
+          "Préstamos inmobiliarios comerciales",
+          "Financiamiento para expansión"
+        ]
+      },
+      "auto": {
+        "title": "Préstamos para Autos",
+        "description": "Ponte en marcha con nuestras opciones competitivas de financiamiento de autos nuevos y usados.",
+        "features": [
+          "Financiamiento para autos nuevos y usados",
+          "Tasas competitivas desde 4.5%",
+          "Proceso de aprobación rápido",
+          "Términos flexibles hasta 7 años"
+        ]
+      }
+    },
+    "cta": {
+      "title": "¿Listo para Comenzar?",
+      "description": "Solicita ahora o calcula tu tasa para ver cómo podemos ayudarte a alcanzar tus metas financieras.",
+      "applyButton": "Solicitar Ahora",
+      "calculateButton": "Calcular Tasa"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Ponte en Contacto",
+    "description": "¿Tienes preguntas sobre nuestros servicios de préstamos? Nuestro equipo está aquí para ayudarte a encontrar la solución financiera adecuada.",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "loanType": "Interesado En",
+      "loanTypes": {
+        "personal": "Préstamo Personal",
+        "home": "Préstamo Hipotecario",
+        "business": "Préstamo Empresarial",
+        "auto": "Préstamo para Auto",
+        "other": "Otro"
+      },
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje",
+      "placeholders": {
+        "name": "Ingresa tu nombre completo",
+        "email": "Ingresa tu correo electrónico",
+        "phone": "Ingresa tu número de teléfono",
+        "message": "¿Cómo podemos ayudarte?"
+      }
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "description": "También puedes contactarnos a través de:",
+      "address": {
+        "title": "Dirección de Oficina",
+        "line": "Calle Finanzas 123, Distrito Financiero",
+        "city": "Nueva York, NY 10001"
+      },
+      "phone": {
+        "title": "Teléfono",
+        "number": "(555) 123-4567",
+        "hours": "Lunes - Viernes, 9 AM - 5 PM"
+      },
+      "email": {
+        "title": "Correo Electrónico",
+        "address": "contacto@smartloan.com",
+        "support": "soporte@smartloan.com"
+      }
+    }
+  }
+} 

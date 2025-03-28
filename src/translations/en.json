@@ -1,0 +1,208 @@
+{
+  "hero": {
+    "title": "Get Your Dream Loan at",
+    "highlight": "Lowest Rates",
+    "subtitle": "Fast approvals, competitive interest rates, and flexible repayment terms tailored to your needs.",
+    "applyButton": "Apply Now",
+    "calculateButton": "Calculate Rate"
+  },
+  "features": {
+    "title": "Why Choose SmartLoan?",
+    "lowRates": {
+      "title": "Low Interest Rates",
+      "description": "Starting from 3.5% APR with flexible terms and transparent fees."
+    },
+    "fastApproval": {
+      "title": "Fast Approval",
+      "description": "Get approved within 24 hours with our streamlined application process."
+    },
+    "secure": {
+      "title": "Secure Process",
+      "description": "Your data is protected with bank-level security and encryption."
+    }
+  },
+  "nav": {
+    "services": "Services",
+    "dashboard": "Dashboard",
+    "loanCalculator": "Loan Calculator",
+    "contact": "Contact"
+  },
+  "dashboard": {
+    "title": "Client Dashboard",
+    "stats": {
+      "title": "Dashboard Overview",
+      "overview": "Overview",
+      "monthly": "Monthly",
+      "totalLoans": "Total Loans",
+      "totalAmount": "Total Amount",
+      "avgCreditScore": "Average Credit Score",
+      "pendingApplications": "Pending Applications",
+      "monthlyStats": {
+        "title": "Monthly Statistics",
+        "newLoans": "New Loans",
+        "totalRepaid": "Total Repaid",
+        "defaultRate": "Default Rate",
+        "avgLoanSize": "Average Loan Size"
+      }
+    },
+    "table": {
+      "title": "Client List",
+      "client": "Client Name",
+      "loanType": "Loan Type",
+      "amount": "Amount",
+      "period": "Period",
+      "payback": "Payback",
+      "creditScore": "Credit Score",
+      "status": "Status"
+    },
+    "errors": {
+      "loadingClients": "Error loading clients data"
+    }
+  },
+  "loanTypes": {
+    "title": "Loan Types Available",
+    "personal": {
+      "title": "Personal Loans",
+      "rate": "5.99%",
+      "term": "1-7 years"
+    },
+    "home": {
+      "title": "Home Loans",
+      "rate": "3.5%",
+      "term": "15-30 years"
+    },
+    "business": {
+      "title": "Business Loans",
+      "rate": "4.99%",
+      "term": "1-10 years"
+    },
+    "auto": {
+      "title": "Auto Loans",
+      "rate": "4.5%",
+      "term": "2-7 years"
+    },
+    "interestRate": "Interest Rate from",
+    "termLength": "Term Length",
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "description": "Making your financial dreams possible with competitive rates and transparent terms.",
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "services": "Our Services",
+    "calculator": "Loan Calculator",
+    "faq": "FAQ",
+    "contact": {
+      "title": "Contact",
+      "email": "Email: contact@smartloan.com",
+      "phone": "Phone: (555) 123-4567",
+      "address": "Address: 123 Finance Street",
+      "hours": "Business Hours: 9 AM - 5 PM"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe for the latest updates and offers",
+      "placeholder": "Your email",
+      "button": "Subscribe"
+    },
+    "copyright": "© 2024 SmartLoan. All rights reserved."
+  },
+  "services": {
+    "title": "Our Loan Services",
+    "subtitle": "Comprehensive Financial Solutions for Every Need",
+    "description": "Explore our range of loan services designed to help you achieve your financial goals. Whether you're looking to buy a home, start a business, or need personal financing, we have the right solution for you.",
+    "categories": {
+      "personal": {
+        "title": "Personal Loans",
+        "description": "Flexible personal loans with competitive rates for any purpose - from debt consolidation to home improvement.",
+        "features": [
+          "Quick approval process",
+          "Rates from 5.99% APR",
+          "Loan amounts up to $50,000",
+          "Flexible repayment terms"
+        ]
+      },
+      "home": {
+        "title": "Home Loans",
+        "description": "Make your dream home a reality with our competitive mortgage options and expert guidance.",
+        "features": [
+          "Low down payment options",
+          "Competitive interest rates from 3.5%",
+          "Fixed and adjustable rates",
+          "First-time homebuyer programs"
+        ]
+      },
+      "business": {
+        "title": "Business Loans",
+        "description": "Fuel your business growth with our range of commercial financing solutions.",
+        "features": [
+          "Working capital loans",
+          "Equipment financing",
+          "Commercial real estate loans",
+          "Business expansion funding"
+        ]
+      },
+      "auto": {
+        "title": "Auto Loans",
+        "description": "Get on the road with our competitive auto financing options for new and used vehicles.",
+        "features": [
+          "New and used car financing",
+          "Competitive rates from 4.5%",
+          "Quick approval process",
+          "Flexible terms up to 7 years"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Apply now or calculate your rate to see how we can help you achieve your financial goals.",
+      "applyButton": "Apply Now",
+      "calculateButton": "Calculate Rate"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "description": "Have questions about our loan services? Our team is here to help you find the right financial solution.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "loanType": "Interested In",
+      "loanTypes": {
+        "personal": "Personal Loan",
+        "home": "Home Loan",
+        "business": "Business Loan",
+        "auto": "Auto Loan",
+        "other": "Other"
+      },
+      "message": "Your Message",
+      "submit": "Send Message",
+      "placeholders": {
+        "name": "Enter your full name",
+        "email": "Enter your email address",
+        "phone": "Enter your phone number",
+        "message": "How can we help you?"
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "You can also reach us through:",
+      "address": {
+        "title": "Office Address",
+        "line": "123 Finance Street, Business District",
+        "city": "New York, NY 10001"
+      },
+      "phone": {
+        "title": "Phone",
+        "number": "(555) 123-4567",
+        "hours": "Monday - Friday, 9 AM - 5 PM"
+      },
+      "email": {
+        "title": "Email",
+        "address": "contact@smartloan.com",
+        "support": "support@smartloan.com"
+      }
+    }
+  }
+} 
