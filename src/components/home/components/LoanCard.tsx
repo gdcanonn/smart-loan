@@ -27,7 +27,7 @@ export default function LoanCard({ title, rate, term }: LoanCardProps) {
   )
 
   return (
-    <div className="bg-white dark:bg-gray-700 p-6 rounded-lg shadow-lg">
+    <div className="max-w-sm mx-auto bg-white dark:bg-gray-700 p-6 rounded-lg shadow-lg w-full">
       <h3 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">
         {title}
       </h3>
