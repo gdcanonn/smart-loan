@@ -64,7 +64,7 @@ A modern loan management system built with Next.js 14, React, TypeScript, and Ta
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone git@github.com:gdcanonn/smart-loan.git
 ```
 
 2. Install dependencies:
